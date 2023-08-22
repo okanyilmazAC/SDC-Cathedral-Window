@@ -1,9 +1,9 @@
-# How to include this in your website
+## How to include this on your Website:
 
 Copy and Paste the following text into your page:
 &LT;img src="https://okanyilmazac.github.io/Interactive-SDC-Cathedral-Window-/ChurchWindow.png" style="width: 1024px; height: auto;">
-       
-# Name the license and author:
+
+## Name the license and author:
 Title: SDC Cathedral Window 2023
 Author: Okan Yilmaz
 

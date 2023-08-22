@@ -11,12 +11,7 @@ Title: SDC Cathedral Window 2023
 
 Author: Okan Yilmaz
 
-
-Original Picture by: Martin Kasparick and Björn Andersen
-
-Original Picture Title: SDC Cathedral Window (Version 2)
-
-Link to Original: https://ornet.org/wp-content/uploads/2022/10/Cathedral_Window_v2-1553x2048.png
+Original Picture "SDC Cathedral Window Version 2" by: Martin Kasparick and Björn Andersen
 
 License: CC BY-SA 4.0 (Original work licensed under CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/legalcode
 

@@ -2,12 +2,12 @@
 
 Copy and Paste the following text into your page:
 
-&LT;img src="https://okanyilmazac.github.io/Interactive-SDC-Cathedral-Window-/ChurchWindow.png" style="width: 900px; height: auto;">
+img src="https://okanyilmazac.github.io/Interactive-SDC-Cathedral-Window-/ChurchWindowOuter@1.png" style="width: 900px; height: auto;"
 
-<img src="ChurchWindow.png" style="width: 900px; height: auto;">
+<img src="ChurchWindowOuter@1.png" style="width: 900px; height: auto;">
 
 ## Name the license and author:
-Title: SDC Cathedral Window 2023
+Title: SDC Cathedral Window
 
 Author: Okan Yilmaz
 

@@ -2,9 +2,9 @@
 
 Copy and Paste the following text into your page:
 
-img src="https://okanyilmazac.github.io/Interactive-SDC-Cathedral-Window-/ChurchWindowOuter@1.png" style="width: 900px; height: auto;"
+img src="https://okanyilmazac.github.io/SDC-Cathedral-Window/ChurchWindowOuter@1x.png" style="width: 900px; height: auto;"
 
-<img src="ChurchWindowOuter@1.png" style="width: 900px; height: auto;">
+<img src="ChurchWindowOuter@1x.png" style="width: 900px; height: auto;">
 
 ## Name the license and author:
 Title: SDC Cathedral Window
